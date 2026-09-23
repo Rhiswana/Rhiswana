@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Rhiswana Begam B
-
-📍 Paramakudi, Tamil Nadu
-📧 [rhiswanabegam@gmail.com](mailto:rhiswanabegam@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/rhiswana-begam-b-284544286)
-
 ---
 
 ## 🚀 About Me
@@ -86,35 +81,15 @@
 
 ---
 
-### 📚 BookFinder App
-
-🚀 Angular + Node.js + Express
-
-✨ Highlights:
-
-* Full-stack book search app
-* Integrated OpenLibrary API
-* Deployed on Render
-
-🌐 [Live Demo](https://mean-app-6c39.onrender.com)
-
----
 
 
 ## 👨‍💻 Developer Profiles
 
 * 💻 [GitHub](https://github.com/Rhiswana)
-* 📘 [GeeksforGeeks](https://geeksforgeeks.org/user/rhiswant8xj)
+
 
 ---
 
-## 🎯 Core Skills
-
-✨ Time Management
-✨ Teamwork
-✨ Problem Solving
-✨ Adaptability
-✨ Continuous Learning
 
 ---
 
