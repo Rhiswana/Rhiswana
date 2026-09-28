@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rhiswana Begam B
+# 👋 Hi, I'm Rhiswana 
 ---
 
 ## 🚀 About Me
